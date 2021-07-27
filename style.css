@@ -2,3 +2,65 @@ body {
   font-family: "Poppins", sans-serif;
   margin: 0;
 }
+.orange-color {
+  color: orange;
+}
+.hero-area {
+  display: flex;
+  margin-bottom: 150px;
+}
+.hero-section {
+  margin-top: 120px;
+  margin-left: 18px;
+}
+.hero-area img {
+  width: 85%;
+}
+.heading-text {
+  font-size: 40px;
+}
+.anchor-btn {
+  text-decoration: none;
+  padding: 10px 30px;
+  background-image: linear-gradient(salmon, tomato);
+  border-radius: 8px;
+  color: white;
+}
+.about-section{
+    background-image: url(images/Frame\ .jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.about-area{
+    display: flex;
+}
+.about-area img{
+    width: 50%;
+    margin-left: 80px;
+}
+.about-me p{
+    text-align:justify;
+}
+
+.recipie{
+    text-align: center;
+    margin-bottom: 30px;
+}
+.food-item{
+    display: flex;
+}
+.food-card{
+    width: 30%;
+    margin-left: 3%;
+    padding: 5px;
+    box-shadow: 5px 2px 40px gray;
+    border-radius: 10px;
+    text-align: center;
+}
+.food-item img{
+    width: 80%;
+}
+.social-part{
+    display: flex;
+}
+
