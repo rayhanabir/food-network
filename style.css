@@ -41,10 +41,13 @@ body {
 }
 .about-me{
     position: relative;
-    margin-top: 200px;
-    text-align:justify;
+    margin-top: 150px;
+    
 }
-
+.about-me>p{
+    text-align: justify;
+    margin-right: 30px;
+}
 .recipie{
     text-align: center;
     margin-bottom: 30px;
